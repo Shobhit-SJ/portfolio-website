@@ -1,2 +1,2 @@
-# portfolio-website
+# Portfolio-website
 This is my frontend project using html, CSS, JavaScript.
